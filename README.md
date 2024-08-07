@@ -6,6 +6,7 @@ ALL SOLVED PROBLEMS
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -27,6 +28,7 @@ ALL SOLVED PROBLEMS
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
@@ -37,6 +39,7 @@ ALL SOLVED PROBLEMS
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
