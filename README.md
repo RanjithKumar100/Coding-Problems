@@ -10,6 +10,7 @@ ALL SOLVED PROBLEMS
 | [0088-merge-sorted-array](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
@@ -31,11 +32,13 @@ ALL SOLVED PROBLEMS
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
@@ -49,4 +52,5 @@ ALL SOLVED PROBLEMS
 |  |
 | ------- |
 | [0136-single-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
