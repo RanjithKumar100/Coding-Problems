@@ -12,12 +12,18 @@ class Solution {
   public:
     // Function to return the count of number of elements in union of two arrays.
     int doUnion(vector<int> arr1, vector<int> arr2) {
-        unordered_set<int> s;
-        for(int i=0;i<arr1.size();i++){
-            s.insert(arr1[i]);
+        vector<int> result;
+        int n = arr1.size();
+        int m = arr2.size();
+        for(int i=0;i<n;i++){
+            result.push_back(arr1[i]);
         }
-        for(int i=0;i<arr2.size();i++){
-            s.insert(arr2[i]);
+        for(int i=0;i<m;i++){
+            result.push_back(arr2[i]);
+        }
+        unordered_set<int> s;
+        for(int i=0;i<result.size();i++){
+            s.insert(result[i]);
         }
         return s.size();
     }
