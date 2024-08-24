@@ -8,6 +8,7 @@ ALL SOLVED PROBLEMS
 | [0001-two-sum](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0217-contains-duplicate) |
@@ -46,6 +47,7 @@ ALL SOLVED PROBLEMS
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0349-intersection-of-two-arrays) |
