@@ -35,6 +35,7 @@ ALL SOLVED PROBLEMS
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -61,6 +62,7 @@ ALL SOLVED PROBLEMS
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0344-reverse-string) |
 ## Tree
 |  |
