@@ -28,6 +28,7 @@ ALL SOLVED PROBLEMS
 | ------- |
 | [0001-two-sum](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
@@ -52,6 +53,7 @@ ALL SOLVED PROBLEMS
 | [0056-merge-intervals](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
@@ -63,6 +65,7 @@ ALL SOLVED PROBLEMS
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0344-reverse-string) |
 ## Tree
 |  |
