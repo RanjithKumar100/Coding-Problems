@@ -12,6 +12,7 @@ ALL SOLVED PROBLEMS
 | [0088-merge-sorted-array](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -29,6 +30,7 @@ ALL SOLVED PROBLEMS
 | [0001-two-sum](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
@@ -44,6 +46,7 @@ ALL SOLVED PROBLEMS
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -54,12 +57,14 @@ ALL SOLVED PROBLEMS
 | [0088-merge-sorted-array](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
@@ -83,4 +88,8 @@ ALL SOLVED PROBLEMS
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0199-binary-tree-right-side-view) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
