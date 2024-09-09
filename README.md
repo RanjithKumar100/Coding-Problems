@@ -24,6 +24,7 @@ ALL SOLVED PROBLEMS
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0053-maximum-subarray) |
+| [0131-palindrome-partitioning](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0131-palindrome-partitioning) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ ALL SOLVED PROBLEMS
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0344-reverse-string) |
 ## Tree
@@ -92,4 +94,8 @@ ALL SOLVED PROBLEMS
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0268-missing-number) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
