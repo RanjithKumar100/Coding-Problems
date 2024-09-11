@@ -73,6 +73,7 @@ ALL SOLVED PROBLEMS
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0131-palindrome-partitioning) |
@@ -102,4 +103,8 @@ ALL SOLVED PROBLEMS
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0131-palindrome-partitioning) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
