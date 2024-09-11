@@ -7,6 +7,7 @@ ALL SOLVED PROBLEMS
 | ------- |
 | [0001-two-sum](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0088-merge-sorted-array) |
@@ -29,6 +30,7 @@ ALL SOLVED PROBLEMS
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0268-missing-number) |
@@ -54,6 +56,7 @@ ALL SOLVED PROBLEMS
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0217-contains-duplicate) |
@@ -70,6 +73,7 @@ ALL SOLVED PROBLEMS
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0242-valid-anagram) |
