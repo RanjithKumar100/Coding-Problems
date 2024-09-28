@@ -7,6 +7,7 @@ ALL SOLVED PROBLEMS
 | ------- |
 | [0001-two-sum](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0056-merge-intervals) |
@@ -51,6 +52,7 @@ ALL SOLVED PROBLEMS
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0349-intersection-of-two-arrays) |
