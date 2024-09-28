@@ -18,6 +18,7 @@ ALL SOLVED PROBLEMS
 | [0287-find-the-duplicate-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0792-binary-search](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -54,6 +55,7 @@ ALL SOLVED PROBLEMS
 | [0287-find-the-duplicate-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0792-binary-search](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0792-binary-search) |
 ## Sorting
 |  |
 | ------- |
