@@ -10,6 +10,7 @@ ALL SOLVED PROBLEMS
 | [0035-search-insert-position](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0136-single-number) |
@@ -30,6 +31,7 @@ ALL SOLVED PROBLEMS
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0131-palindrome-partitioning) |
 ## Hash Table
 |  |
@@ -129,4 +131,8 @@ ALL SOLVED PROBLEMS
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
