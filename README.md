@@ -22,6 +22,7 @@ ALL SOLVED PROBLEMS
 | [0349-intersection-of-two-arrays](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0792-binary-search) |
+| [2058-concatenation-of-array](https://github.com/RanjithKumar100/Coding-Problems/tree/master/2058-concatenation-of-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -135,4 +136,8 @@ ALL SOLVED PROBLEMS
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0055-jump-game) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/RanjithKumar100/Coding-Problems/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
