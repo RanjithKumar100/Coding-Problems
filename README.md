@@ -34,6 +34,7 @@ ALL SOLVED PROBLEMS
 | [0053-maximum-subarray](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0131-palindrome-partitioning) |
+| [1236-n-th-tribonacci-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/1236-n-th-tribonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +113,7 @@ ALL SOLVED PROBLEMS
 | ------- |
 | [0204-count-primes](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0268-missing-number) |
+| [1236-n-th-tribonacci-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/1236-n-th-tribonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -140,4 +142,8 @@ ALL SOLVED PROBLEMS
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/RanjithKumar100/Coding-Problems/tree/master/2058-concatenation-of-array) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
