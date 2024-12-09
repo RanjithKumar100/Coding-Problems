@@ -46,6 +46,7 @@ ALL SOLVED PROBLEMS
 | [0268-missing-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,6 +93,7 @@ ALL SOLVED PROBLEMS
 | [0131-palindrome-partitioning](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0344-reverse-string) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [3379-score-of-a-string](https://github.com/RanjithKumar100/Coding-Problems/tree/master/3379-score-of-a-string) |
 ## Tree
 |  |
@@ -135,6 +137,7 @@ ALL SOLVED PROBLEMS
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0169-majority-element) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Greedy
 |  |
 | ------- |
