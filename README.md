@@ -92,6 +92,7 @@ ALL SOLVED PROBLEMS
 | [0131-palindrome-partitioning](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0344-reverse-string) |
+| [3379-score-of-a-string](https://github.com/RanjithKumar100/Coding-Problems/tree/master/3379-score-of-a-string) |
 ## Tree
 |  |
 | ------- |
