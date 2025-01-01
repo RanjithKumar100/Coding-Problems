@@ -94,6 +94,7 @@ ALL SOLVED PROBLEMS
 | [0242-valid-anagram](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0344-reverse-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2032-largest-odd-number-in-string](https://github.com/RanjithKumar100/Coding-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [3379-score-of-a-string](https://github.com/RanjithKumar100/Coding-Problems/tree/master/3379-score-of-a-string) |
 ## Tree
 |  |
@@ -117,6 +118,7 @@ ALL SOLVED PROBLEMS
 | [0204-count-primes](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0268-missing-number) |
 | [1236-n-th-tribonacci-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/1236-n-th-tribonacci-number) |
+| [2032-largest-odd-number-in-string](https://github.com/RanjithKumar100/Coding-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -142,6 +144,7 @@ ALL SOLVED PROBLEMS
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0055-jump-game) |
+| [2032-largest-odd-number-in-string](https://github.com/RanjithKumar100/Coding-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## Simulation
 |  |
 | ------- |
