@@ -57,6 +57,7 @@ ALL SOLVED PROBLEMS
 | [0344-reverse-string](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1894-merge-strings-alternately](https://github.com/RanjithKumar100/Coding-Problems/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,6 +95,7 @@ ALL SOLVED PROBLEMS
 | [0242-valid-anagram](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0344-reverse-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1894-merge-strings-alternately](https://github.com/RanjithKumar100/Coding-Problems/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/RanjithKumar100/Coding-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [3379-score-of-a-string](https://github.com/RanjithKumar100/Coding-Problems/tree/master/3379-score-of-a-string) |
 ## Tree
