@@ -117,6 +117,7 @@ ALL SOLVED PROBLEMS
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0268-missing-number) |
 | [1236-n-th-tribonacci-number](https://github.com/RanjithKumar100/Coding-Problems/tree/master/1236-n-th-tribonacci-number) |
