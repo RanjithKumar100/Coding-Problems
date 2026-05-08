@@ -6,6 +6,7 @@ ALL SOLVED PROBLEMS
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0049-group-anagrams) |
@@ -51,6 +52,7 @@ ALL SOLVED PROBLEMS
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0125-valid-palindrome) |
@@ -149,6 +151,7 @@ ALL SOLVED PROBLEMS
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/RanjithKumar100/Coding-Problems/tree/master/0055-jump-game) |
 | [2032-largest-odd-number-in-string](https://github.com/RanjithKumar100/Coding-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## Simulation
